@@ -1,0 +1,6 @@
+print("===================================")
+print("Hello World!")
+print("My Name is Rohit Kaithwaria")
+print("Welcome in 2026")
+print("A New Year, A New Beginning")
+print("===================================")
